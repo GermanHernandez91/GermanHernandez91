@@ -30,3 +30,4 @@
 
 # Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germ%C3%A1n-hern%C3%A1ndez-del-rosario-295892118/)
+[![Medium](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=medium&logoColor=black)]([https://www.linkedin.com/in/germ%C3%A1n-hern%C3%A1ndez-del-rosario-295892118/](https://medium.com/@german220291)https://medium.com/@german220291)
