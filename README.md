@@ -2,7 +2,9 @@
 
 
 # About Me
-- 📱 Experienced iOS Developer with a proven track record of leveraging the latest technologies, including Swift UI, to deliver high-impact and user-centric mobile applications. Proficient in transforming conceptual ideas into efficient, robust, and visually appealing iOS experiences. Committed to staying at the forefront of advancements in the iOS development landscape, continuously pushing the boundaries of innovation. A passion for crafting elegant solutions that seamlessly blend form and function, ensuring optimal user satisfaction and engagement.
+📱 Experienced iOS Developer with a proven track record of leveraging the latest technologies, including Swift UI, to deliver high-impact and user-centric mobile applications. Proficient in transforming conceptual ideas into efficient, robust, and visually appealing iOS experiences. Committed to staying at the forefront of advancements in the iOS development landscape, continuously pushing the boundaries of innovation. A passion for crafting elegant solutions that seamlessly blend form and function, ensuring optimal user satisfaction and engagement.
+
+Creator of [Subbify](https://apps.apple.com/us/app/subbify/id6717596457)
 
 # GitHub Stats
 <table align="center" border="0" cellpadding="0" cellspacing="0">
@@ -27,4 +29,3 @@
 
 # Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/germ%C3%A1n-hern%C3%A1ndez-del-rosario-295892118/)
-[![Medium](https://img.shields.io/badge/medium-%230077B5.svg?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@german220291)
