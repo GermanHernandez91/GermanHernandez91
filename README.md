@@ -4,8 +4,6 @@
 # About Me
 📱 Experienced iOS Developer with a proven track record of leveraging the latest technologies, including Swift UI, to deliver high-impact and user-centric mobile applications. Proficient in transforming conceptual ideas into efficient, robust, and visually appealing iOS experiences. Committed to staying at the forefront of advancements in the iOS development landscape, continuously pushing the boundaries of innovation. A passion for crafting elegant solutions that seamlessly blend form and function, ensuring optimal user satisfaction and engagement.
 
-Creator of [Subbify](https://apps.apple.com/us/app/subbify/id6717596457)
-
 # GitHub Stats
 <table align="center" border="0" cellpadding="0" cellspacing="0">
       <thead>
